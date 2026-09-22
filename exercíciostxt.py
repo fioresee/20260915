@@ -1,3 +1,5 @@
+#Aula do dia 22/09/2026
+
 #EX1
 
 numeros = open('numeros.txt', 'w', encoding='utf-8')
